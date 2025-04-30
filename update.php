@@ -1,5 +1,5 @@
 <?php
-$dsn='mysql://z9l4b4u0putqbo4k:bhz0gtbgl4rol13t@mcldisu5ppkm29wf.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/wibcjxltlfbs83oe ';
+$dsn='mysql:dbname=wibcjxltlfbs83oe;host=mcldisu5ppkm29wf.cbetxkdyhwsb.us-east-1.rds.amazonaws.com;charset=utf8mb4 ';
 $user='z9l4b4u0putqbo4k';
 $password='bhz0gtbgl4rol13t';
 
